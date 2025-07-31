@@ -1,0 +1,31 @@
+PLINK v1.9.0-b.7.8 64-bit (15 Jun 2025)
+Options in effect:
+  --allow-no-sex
+  --bfile rice_qc3_maf_filter
+  --covar rice_pca_covars.txt
+  --fam rice_qc3_maf_filter_with_pheno.fam
+  --linear
+  --out awpr_repro_gwas_results_v3
+
+Hostname: MOHAK
+Working directory: C:\Users\mohak\Desktop\1
+Start time: Thu Jul 31 01:08:41 2025
+
+Random number seed: 1753916921
+16046 MB RAM detected; reserving 8023 MB for main workspace.
+871802 variants loaded from .bim file.
+3001 people (0 males, 0 females, 3001 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to awpr_repro_gwas_results_v3.nosex .
+49 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+--covar: 5 covariates loaded.
+1 person was not seen in the covariate file.
+Before main variant filters, 3001 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.981439.
+871802 variants and 3001 people pass filters and QC.
+Phenotype data is quantitative.
+Writing linear model association results to
+awpr_repro_gwas_results_v3.assoc.linear ... done.
+
+End time: Thu Jul 31 01:08:49 2025
