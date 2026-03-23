@@ -22,4 +22,4 @@ Some of the Quality Control Data can be seen in the folder [Quality Control](htt
 5. Visualization and SNP Annotation: Utilized R and the `qqman` package to generate [Manhattan Plots](), visualizing the statistical significance (-log(P)) of each SNP across all 12 chromosomes. Filtered the results against a strict genome-wide significance threshold (P < 5e-8) to isolate.
 
 **Results**
-The Total Genotyping Rate is 0.981439 with 871802 variants and 3001 people pass filters and QC where the most significants SNPs were exported into [significant_snps_awpr_repro.csv]()
+The Total Genotyping Rate is 0.981439 with 871802 variants and 3001 people pass filters and QC where the most significants SNPs were exported into [significant_snps_awpr_repro.csv](significant_snps_awpr_repro.csv)
